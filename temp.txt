@@ -1,0 +1,25 @@
+
+ Invoice ID: 1USHAU91YX
+ Company Name: Laxman
+ Used By:   laxman
+ Booked By: Laxman                        Branch Requested: Sabarmati
+------------------------------------------------------------------------------------------------------------------
+ Car No.: swift		Car Alotted: swift
+ Package: citytour
+ Kms Used: 30                Extra Kms: 0             Extra Kms Charge(@10% extra rate): 0.0
+ Hours Used: 10                Extra Hours: 0          Extra Hours Charge(@Rs.50/hr): 0.0
+ Car Used On: 12-12-2016                                                                    Sub Total (A): 234.0
+------------------------------------------------------------------------------------------------------------------
+ Parking & Toll: 200.0                                                    Others: 500.0
+ Out Station Allowance (in Rs.) for 	 Days: 1000.0                Nights: 200.0
+                                                                                                                      Sub Total (B): 1900.0
+------------------------------------------------------------------------------------------------------------------
+                                                                                                                      Total (A+B): 2134.0
+
+ PAN: 7202018386                                                                                 Service Tax: 106.57196
+ Service Tax Category: Rent-a-Cab		Total: 2240.57196
+ All Cheques/Drafts to be drawn in favor of		Booking Amount: 1000.0
+ prajapati		Net Payable: 1240.5719600000002
+
+ Billing Address
+ Ahmebdad
